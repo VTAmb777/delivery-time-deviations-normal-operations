@@ -5,6 +5,9 @@ This repository contains a final research report examining delivery time deviati
 
 The study challenges the assumption that delivery delays are primarily caused by extreme events such as heavy traffic or adverse weather and demonstrates that delays persist even during routine operations.
 
+## Dataset Relevance
+Southern California is one of the world’s busiest logistics regions, with the Ports of Los Angeles and Long Beach handling ~40% of U.S. containerized imports. Due to sustained freight volumes, delivery time deviations are a recurring operational issue in this region, affecting schedule reliability across transport and distribution networks. This project is relevant because it focuses on a real, high-impact logistics environment where understanding delivery time deviations is essential for evaluating operational performance at scale.
+
 ## Report
 📄 **Final project Report (PDF)**  
 - *Delivery Time Deviations Under Normal Operational Conditions (Invisible Risk)*  
