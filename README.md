@@ -25,3 +25,8 @@ Delivery delays remain largely unaffected by increasing levels of operational no
 
 ## Author
 Vidumini Ambagahawatte
+
+## 📄 Download the Report
+
+[Click here to view and download the PDF](./Delivery%20Time%20Deviations%20Under%20Normal%20Operational%20Conditions%20%28Invisible%20Risk%29%20-%20A%20Secondary%20Data%20Analysis%20Using%20SPSS.pdf)
+
